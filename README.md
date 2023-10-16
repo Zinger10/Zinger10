@@ -2,9 +2,7 @@
 ### Final year student of Computer Engineering Technology (Computer Systems) in UTeM 👋
 
 
-
-
-
+ I'm interested in Web development, Mobile development and AI
 
  I'm currently working on an inventory management system web app using flask 
  
