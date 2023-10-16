@@ -1,4 +1,4 @@
- <img src="https://github.com/Zinger10/Zinger10/assets/94850477/74297bd1-99c6-40e2-b740-d5cd10f2ac1d" width="500" height="250">
+ <img src="https://github.com/Zinger10/Zinger10/assets/94850477/74297bd1-99c6-40e2-b740-d5cd10f2ac1d" width="1000" height="500">
 
 
 
