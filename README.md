@@ -1,4 +1,5 @@
-### Hi there i'm Kah Yau, a final year student of Computer Engineering Technology (Computer Systems) in UTeM 👋
+### Hi there i'm Kah Yau, 
+### Final year student of Computer Engineering Technology (Computer Systems) in UTeM 👋
 
 
 
