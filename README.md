@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning **to develop in SAP ABAP as part of my internship role in Nextlabs, Malaysia.**
 
-- ☁️ I've keen interest in mobile, web and AI developemnt. So,I'm always **curious about the latest news regarding         to tech**
+- ☁️ I've keen interest in mobile, web and AI developemnt and Robotics. So,I'm always **curious about the latest         news regarding to tech**
 
 - 📫 Feel free to reach me out **kahyau32@gmail.com**
 
