@@ -6,7 +6,7 @@
   </ul>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+
 
 <div align="center">
   <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJmemk3ZDF3c2szMTltbGRjYTNsa3MxeGR0Zmt3aTNxYnhhZHB3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif"/>
@@ -73,7 +73,7 @@
 
 <br>
 
-## Language and Tools
+## :hammer_and_wrench:  Language and Tools
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
