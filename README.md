@@ -11,8 +11,8 @@
 
 
 <div align="center">
-  <img  src="https://giphy.com/stickers/coding-invidgroup-ninja-7OMR3y1E9QeYsr9olS/tile"
-       alt="snake" /></a>
+  <img  src="https://giphy.com/stickers/coding-invidgroup-ninja-7OMR3y1E9QeYsr9olS/tile"/>
+</a>
    <ul align="center">
   <img src="https://komarev.com/ghpvc/?username=Zinger10&style=flat-square&color=blue" alt=""/>
       </ul>
