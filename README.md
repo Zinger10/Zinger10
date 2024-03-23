@@ -6,10 +6,10 @@
   </ul>
 </div>
 
-
+### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
-  <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb216NmJ4aWU0dXh2YW1hOGYyZXQ5eTJweHN1NTRpeTYzMjN0YzBocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7OMR3y1E9QeYsr9olS/giphy.gif"/>
+  <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJmemk3ZDF3c2szMTltbGRjYTNsa3MxeGR0Zmt3aTNxYnhhZHB3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif"/>
 </a>
    <ul align="center">
   <img src="https://komarev.com/ghpvc/?username=Zinger10&style=flat-square&color=blue" alt=""/>
