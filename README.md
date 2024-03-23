@@ -13,6 +13,9 @@
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
+   <ul align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zinger10&style=flat-square&color=blue" alt=""/>
+      </ul>
 </div>
 
 
@@ -29,7 +32,7 @@
 
 - 🌱 I’m currently learning **to develop in SAP ABAP as part of my internship role in Nextlabs, Malaysia.**
 
-- ☁️ I've keen interest in mobile, web and AI developemnt and Robotics. So,I'm always **curious about the latest         news regarding to tech**
+- ☁️ I've keen interest in mobile, web and AI developemnt and Robotics. So,I'm always **curious about the latest  news regarding to tech**
 
 - 📫 Feel free to reach me out **kahyau32@gmail.com**
 
