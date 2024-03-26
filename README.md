@@ -95,9 +95,15 @@ Go to the icons folder and search and open the react folder. You’ll find image
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   
 
-
-
 <br>
+
+
+
+
+
+
+
+
 
 ## Academic Background:
 
