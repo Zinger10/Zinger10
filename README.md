@@ -101,7 +101,9 @@ Go to the icons folder and search and open the react folder. You’ll find image
 </div>
 
 <br>
-
+<br>
+<br>
+<br>
 ## Academic Background:
 
 [<img align="left" height="94px" width="200px" alt="UTeM" src="https://private-user-images.githubusercontent.com/94850477/316921306-a87431e4-ac88-4727-9466-d3816d8910e5.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE0NjYyNTEsIm5iZiI6MTcxMTQ2NTk1MSwicGF0aCI6Ii85NDg1MDQ3Ny8zMTY5MjEzMDYtYTg3NDMxZTQtYWM4OC00NzI3LTk0NjYtZDM4MTZkODkxMGU1LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI2VDE1MTIzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg5MzY5Y2IwOGYzMWFiNzgzNjYwYTJlN2M2NmFhM2I3OWVmNmYzNWJjNjFiYjlkOWZlZmNhZjM1MmQ5ZjYzYWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.S9yXJ0kMpJWjgq5TBRg5HZIkh6zz4mIk1mdXqpntmlo"/>](https://www.utem.edu.my/en/)
