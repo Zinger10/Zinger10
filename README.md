@@ -118,7 +118,7 @@
 [**UTeM**](https://www.utem.edu.my/en/)  • In progress\
 Skills: `Data Structures And Algorithms` `Software Engineering` `Computer Organization And Architecture` `Professional Ethics``Embedded Systems` `Computer Interfacing` `Computer Network and Security` `Image and Video Processing`
 
-
+<br>
 
 
 [<img align="left" height="200px" width="200px" alt="Nextlabs" src="https://github.com/Zinger10/Zinger10/assets/94850477/8cba64d7-82ea-4be9-b018-d9f691d65e6b"/>]((https://www.nextlabs.com/)
