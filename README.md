@@ -120,7 +120,7 @@
 Skills: `Data Structures And Algorithms` `Software Engineering` `Computer Organization And Architecture` `Professional Ethics` `Embedded Systems` `Computer Interfacing` `Computer Network and Security` `Image and Video Processing`
 
 <br>
-
+<br>
 
 [<img align="left" height="150px" width="200px" alt="Nextlabs" src="https://github.com/Zinger10/Zinger10/assets/94850477/8cba64d7-82ea-4be9-b018-d9f691d65e6b"/>](https://www.nextlabs.com/)
 **Software Engineer Intern** \
@@ -130,12 +130,13 @@ Skills: `ABAP`  `Object Oriented Programming`  `SAP` `S4 HANA`
 <br>
 <br>
 <br>
-
+<br>
 ## Contact me:
 <div>
 <a href = "mailto: kahyau.work@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ng-kah-yau-461776212/?originalSubdomain=my" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 
 <br>
 <br>
