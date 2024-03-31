@@ -112,8 +112,8 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="UTeM" src=(https://github.com/Zinger10/Zinger10/assets/94850477/92bd4fe1-65e3-43b7-ac29-62886301d5c5)
-")
+[<img align="left" height="94px" width="94px" alt="UTeM" src=https://github.com/Zinger10/Zinger10/assets/94850477/92bd4fe1-65e3-43b7-ac29-62886301d5c5
+"]
 
 **Final Year Computer Engineering Technology Undergraduate** \
 [**UTeM**](https://www.utem.edu.my/en/)  • In progress\
