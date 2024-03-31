@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJmemk3ZDF3c2szMTltbGRjYTNsa3MxeGR0Zmt3aTNxYnhhZHB3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif"/>
+  <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDk3anVxMjU4MmIwN3h5Z3A4c2FoaGE1Mms3cHJ1ZmVxZ2Y3cWY4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif"/>
 </a>
    <ul align="center">
   <img src="https://komarev.com/ghpvc/?username=Zinger10&style=flat-square&color=blue" alt=""/>
