@@ -5,6 +5,7 @@
 
 
 
+
 <div align="center">
   <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJmemk3ZDF3c2szMTltbGRjYTNsa3MxeGR0Zmt3aTNxYnhhZHB3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif"/>
 </a>
@@ -112,7 +113,8 @@
 
 ## Academic Background:
 
-![LogoUTeM-5b80a51b](https://github.com/Zinger10/Zinger10/assets/94850477/0fe02bd0-12e0-4931-9d5c-4f18b9d3da40){:width="94px" height="94px" img align = "left"}
+[<img align="left" height="94px" width="94px" alt="Nextlabs" src="https://github.com/Zinger10/Zinger10/assets/94850477/abd826e8-5cf1-4a90-b606-cb371cd5c73e"/>](https://nextlabs.com/)
+
 **Final Year Computer Engineering Technology Undergraduate** \
 [**UTeM**](https://www.utem.edu.my/en/)  • In progress\
 Skills: `Data Structures And Algorithms` `Software Engineering` `Computer Organization And Architecture` `Professional Ethics``Embedded Systems` `Computer Interfacing` `Computer Network and Security` `Image and Video Processing`
