@@ -78,15 +78,24 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html&perline=3"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css&perline=3"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js&perline=3"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  <img height="48px" width="48px" alt="Icone VS-Code" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg"/>
+<!--HTML ICON-->
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  <!--CSS-->
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  <!--JS-->
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  <!--Python Flask-->
+ [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flask"/>](https://flask.palletsprojects.com/en/3.0.x/)
+<!--C++-->
+ [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://flask.palletsprojects.com/en/3.0.x/)
 <br>
+<!--MySQL-->
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+  <!--Arduino-->
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=arduino"/>](https://www.arduino.cc/)
+  <!--Figma-->
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
+  <!--Vs Code-->
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   <br>
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
