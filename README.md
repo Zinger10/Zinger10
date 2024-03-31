@@ -113,13 +113,13 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="Nextlabs" src="https://github.com/Zinger10/Zinger10/assets/94850477/abd826e8-5cf1-4a90-b606-cb371cd5c73e"/>](https://nextlabs.com/)
-
+[<img align="left" height="200px" width="200px" alt="Nextlabs" src="https://github.com/Zinger10/Zinger10/issues/5#issue-2216871162"/>](https://www.utem.edu.my/en/)
 **Final Year Computer Engineering Technology Undergraduate** \
 [**UTeM**](https://www.utem.edu.my/en/)  • In progress\
 Skills: `Data Structures And Algorithms` `Software Engineering` `Computer Organization And Architecture` `Professional Ethics``Embedded Systems` `Computer Interfacing` `Computer Network and Security` `Image and Video Processing`
 
-[<img align="left" height="94px" width="94px" alt="Nextlabs" src="https://github.com/Zinger10/Zinger10/issues/5#issue-2216871162"/>](https://nextlabs.com/)
+
+[<img align="left" height="200px" width="200px" alt="Nextlabs" src="https://github.com/Zinger10/Zinger10/assets/94850477/98945c68-5fc9-4742-926d-27e78cb7651f"/>]((https://www.nextlabs.com/)
 **Software Engineer Intern** \
 [**NEXTLABS**](https://www.nextlabs.com/) • In progress \
 Skills: `ABAP`  `Object Oriented Programming`  `SAP` `S4 HANA` 
