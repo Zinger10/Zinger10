@@ -20,8 +20,8 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">It's Harder To Read Code Than To Write It.</h2></summary>
-     <summary><h3 style="display: inline-block">Joel Spolsky.</h3></summary>
+   <h3>"It's Harder To Read Code Than To Write It"</h3>
+  <h4>- Joel Spolsky -</h4>
   </ul>
 </div>
 
