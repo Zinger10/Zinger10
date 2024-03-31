@@ -112,7 +112,7 @@
 
 ## Academic Background:
 
-![LogoUTeM-5b80a51b](https://github.com/Zinger10/Zinger10/assets/94850477/0fe02bd0-12e0-4931-9d5c-4f18b9d3da40)
+![LogoUTeM-5b80a51b](https://github.com/Zinger10/Zinger10/assets/94850477/0fe02bd0-12e0-4931-9d5c-4f18b9d3da40){:width="94px" height="94px" img align = "left"}
 **Final Year Computer Engineering Technology Undergraduate** \
 [**UTeM**](https://www.utem.edu.my/en/)  • In progress\
 Skills: `Data Structures And Algorithms` `Software Engineering` `Computer Organization And Architecture` `Professional Ethics``Embedded Systems` `Computer Interfacing` `Computer Network and Security` `Image and Video Processing`
