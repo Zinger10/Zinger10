@@ -112,17 +112,15 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/Zinger10/Zinger10/issues/2#issue-2208538112"/>](https://www.utem.edu.my/en/)
+[<img align="left" height="94px" width="94px" alt="UTeM" src="https://github.com/Zinger10/Zinger10/issues/2#issue-2208538112"/>](https://www.utem.edu.my/en/)
 **Final Year Computer Engineering Technology Undergraduate** \
 [**UTeM**](https://www.utem.edu.my/en/)  • In progress\
-Skills: `Data Structures And Algorithms` `Software Engineering` `Computer Organization And Architecture` `Professional Ethics``Embedded Systems` `Computer Interfacing` `Software Security` `Software Quality`
+Skills: `Data Structures And Algorithms` `Software Engineering` `Computer Organization And Architecture` `Professional Ethics``Embedded Systems` `Computer Interfacing` `Computer Network and Security` `Image and Video Processing`
 
 [<img align="left" height="94px" width="94px" alt="Nextlabs" src="https://github.com/Zinger10/Zinger10/issues/5#issue-2216871162"/>](https://nextlabs.com/)
 **Software Engineer Intern** \
 [**NEXTLABS**](https://www.nextlabs.com/) • In progress \
-Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
-`Bulma` `MongoDB` `ElectronJS`
-
+Skills: `ABAP`  `Object Oriented Programming`  `SAP` `S4 HANA` 
 <br>
 
 ## Contact me:
