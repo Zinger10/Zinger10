@@ -114,12 +114,12 @@
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/Zinger10/Zinger10/issues/2#issue-2208538112"/>](https://www.utem.edu.my/en/)
 **Final Year Computer Engineering Technology Undergraduate** \
-[**UNINTER**](https://www.utem.edu.my/en/)  • In progress\
+[**UTeM**](https://www.utem.edu.my/en/)  • In progress\
 Skills: `Data Structures And Algorithms` `Software Engineering` `Computer Organization And Architecture` `Professional Ethics``Embedded Systems` `Computer Interfacing` `Software Security` `Software Quality`
 
-[<img align="left" height="94px" width="94px" alt="Nextlabs" src="https://github.com/Zinger10/Zinger10/issues/5#issue-2216871162"/>](https://www.onebitcode.com/)
+[<img align="left" height="94px" width="94px" alt="Nextlabs" src="https://github.com/Zinger10/Zinger10/issues/5#issue-2216871162"/>](https://nextlabs.com/)
 **Software Engineer Intern** \
-[**One Bit Code**](https://www.nextlabs.com/) • In progress \
+[**NEXTLABS**](https://www.nextlabs.com/) • In progress \
 Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
 `Bulma` `MongoDB` `ElectronJS`
 
