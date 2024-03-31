@@ -84,7 +84,8 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg"/>
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="  https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg"/>](https://www.arduino.cc/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg"/>](https://www.arduino.cc/)
+  [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 
 
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
