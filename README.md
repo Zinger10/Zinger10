@@ -87,18 +87,6 @@
   <!--Python Flask-->
  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flask"/>](https://flask.palletsprojects.com/en/3.0.x/)
 
-<br>
-<!--MySQL-->
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
-  <!--Arduino-->
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=arduino"/>](https://www.arduino.cc/)
-  <!--Figma-->
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
-  <!--Vs Code-->
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-  <br>
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
 
 <br>
 <br>
