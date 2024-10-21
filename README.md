@@ -27,9 +27,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--Intro start-->
-- 🔭 I’m currently working on **ABAP, Python Flask, Javascript, Android (Java), and MySQL**
+- 🔭 I’m currently working on **Python Flask, Javascript, Android (Java), and MySQL**
 
-- 🌱 I’m currently learning **to develop in SAP ABAP as part of my internship role in Nextlabs, Malaysia.**
+- 🌱 I’m currently learning **to develop in Python as part of my Digital Trainee role in BASF Digital Hub, KL, Malaysia.**
 
 - ☁️ I've keen interest in mobile, web and AI developemnt and Robotics. So,I'm always **curious about the latest  news regarding to tech**
 
